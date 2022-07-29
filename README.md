@@ -1,4 +1,4 @@
-# Forge Boilerplate
+# Foundry Boilerplate
 
 ![banner](./doc/banner.png)
 
