@@ -1,0 +1,8 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "main": "frontend/index.js",
+  "repository": "git@github.com:pythonpete32/foundry-boilerplate.git",
+  "author": "pythonpete <aaron@blackscale.io>",
+  "license": "MIT"
+}
